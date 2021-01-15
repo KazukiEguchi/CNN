@@ -17,7 +17,7 @@
 ## .pyファイルについて
 Activation_func : 活性化関数  
 optimizer : Adam  
-loss_func : 損出関数
+loss_func : 損出関数  
 im2col : im2col、col2im  
-layers : CNNで使う層
+layers : CNNで使う層  
 CNN : 今回使うCNN
